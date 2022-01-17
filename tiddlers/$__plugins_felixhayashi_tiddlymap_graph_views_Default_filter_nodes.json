@@ -1,0 +1,10 @@
+[
+    {
+        "created": "20220117143851544",
+        "title": "$:/plugins/felixhayashi/tiddlymap/graph/views/Default/filter/nodes",
+        "text": "",
+        "type": "text/vnd.tiddlywiki",
+        "filter": " [field:tmap.id[36b6bef9-64c7-440f-bb8f-e858680e2ec3]] [field:tmap.id[5103f501-7146-4d59-a3ad-3a1767d0a077]]",
+        "modified": "20220117143851544"
+    }
+]
