@@ -6,3 +6,4 @@
 6. readelf
 7. objdump
 8. ldd
+9. hexyl
