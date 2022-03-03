@@ -1,0 +1,1 @@
+1. [x509-certificate](https://sectigo.com/resource-library/what-is-x509-certificate#:~:text=Share%20this-,An%20X.,internet%20communications%20and%20computer%20networking.)
