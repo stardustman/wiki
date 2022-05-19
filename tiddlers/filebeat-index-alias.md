@@ -1,0 +1,1 @@
+1. [index-lifecycle-management-does-not-point-to-index-error](https://discuss.elastic.co/t/index-lifecycle-management-does-not-point-to-index-error/211513/4?u=stardustman)
