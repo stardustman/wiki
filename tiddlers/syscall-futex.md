@@ -1,0 +1,2 @@
+1. [https://www.collabora.com/news-and-blog/blog/2022/02/08/landing-a-new-syscall-part-what-is-futex/](https://www.collabora.com/news-and-blog/blog/2022/02/08/landing-a-new-syscall-part-what-is-futex/)
+2. [futex](https://www.akkadia.org/drepper/futex.pdf)
